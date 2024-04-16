@@ -12,5 +12,6 @@ idk, but I think this program is universal, i.e. you can measure the interval be
 - [ ] timer resets history
 - [ ] history-based average time
 - [ ] migrate to jetpack compose
+- [ ] optimize app and clean unused packs
 
 created with fun by aiivy782 using android studio iguana 2023.2.1
