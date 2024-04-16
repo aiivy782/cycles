@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cycles</string>
+    <string name="timer_format">%1$d days, %2$02d:%3$02d:%4$02d</string>
+</resources>
