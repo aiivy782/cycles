@@ -29,7 +29,7 @@
         <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
     </style>
     <style name="ToolbarTheme" parent="ThemeOverlay.Material3.Toolbar.Surface">
-        <item name="android:fontFamily">@font/google_sans</item>
+        <item name="android:fontFamily">@font/google_sans_regular</item>
         <item name="android:color">@color/md_theme_light_onSecondary</item>
     </style>
 </resources>

@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
             android:text="@string/action_reset"
-            android:fontFamily="@font/google_sans"
+            android:fontFamily="@font/google_sans_regular"
             app:icon="@drawable/restart_alt_24"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
@@ -42,7 +42,7 @@
                 android:textColor="?attr/colorPrimaryContainer"
                 android:textSize="24sp"
                 android:layout_gravity="center"
-                android:fontFamily="@font/google_sans"/>
+                android:fontFamily="@font/google_sans_regular"/>
 
         </com.google.android.material.appbar.MaterialToolbar>
 
@@ -59,7 +59,7 @@
                 android:id="@+id/timerTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/google_sans"
+                android:fontFamily="@font/google_sans_regular"
                 android:textSize="36sp"
                 android:textColor="?attr/colorOnPrimaryContainer"
                 app:layout_constraintBottom_toTopOf="@+id/progressBar"
