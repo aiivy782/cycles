@@ -61,7 +61,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/google_sans_regular"
                 android:textSize="36sp"
-                android:textColor="?attr/colorOnPrimaryContainer"
+                android:textColor="?attr/colorOnBackground"
                 app:layout_constraintBottom_toTopOf="@+id/progressBar"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
